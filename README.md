@@ -1,2 +1,2 @@
 # Recursive-To-Iterative
-this code simulates recursion in an iterative fashion
+This code simulates recursion in an iterative fashion.
